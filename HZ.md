@@ -1,0 +1,1 @@
+HZ是用来定义每一秒有几次timer interrupts
